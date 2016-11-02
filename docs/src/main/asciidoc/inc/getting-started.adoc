@@ -1,0 +1,3 @@
+TODO: refer to existing spring boot getting started
+TODO: use my fabric8-hello project as sample it has both SB and WF-Swarm
+TODO: how to add Camel
